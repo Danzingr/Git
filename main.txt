@@ -1,1 +1,2 @@
 main
+Pada main page terdapat fitur navigasi untuk berpindah antar page.
