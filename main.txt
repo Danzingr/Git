@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 main
 fitur 2 pada main page
+=======
+main
+>>>>>>> Menambah_fitur_main
