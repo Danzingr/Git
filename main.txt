@@ -1,1 +1,2 @@
 main
+fitur 2 pada main page
